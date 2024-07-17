@@ -1,4 +1,4 @@
-# AluraGeek
+# Portafolio
 
 Este es el repositorio del proyecto Portafolio.
 
