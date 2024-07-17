@@ -1,6 +1,6 @@
 # AluraGeek
 
-Este es el repositorio del proyecto AluraGeek.
+Este es el repositorio del proyecto Portafolio.
 
 ## Vista previa
 
